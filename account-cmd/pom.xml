@@ -13,6 +13,9 @@
     <version>1.0.0</version>
     <name>account-cmd</name>
     <description>Bank Account Command API</description>
+    <properties>
+        <java.version>${java.version}</java.version>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>cz.zemko.tutorial</groupId>

@@ -13,6 +13,9 @@
     <version>1.0.0</version>
     <name>cqrs-core</name>
     <description>Core CQRS and Event Sourcing Library</description>
+    <properties>
+        <java.version>${java.version}</java.version>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
